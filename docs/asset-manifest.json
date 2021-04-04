@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.6ffdc4c9.chunk.css",
-    "main.js": "/static/js/main.8ae707b5.chunk.js",
-    "main.js.map": "/static/js/main.8ae707b5.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a3dbb60a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a3dbb60a.js.map",
-    "static/js/2.da604abf.chunk.js": "/static/js/2.da604abf.chunk.js",
-    "static/js/2.da604abf.chunk.js.map": "/static/js/2.da604abf.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.6ffdc4c9.chunk.css.map": "/static/css/main.6ffdc4c9.chunk.css.map",
-    "static/js/2.da604abf.chunk.js.LICENSE.txt": "/static/js/2.da604abf.chunk.js.LICENSE.txt"
+    "main.css": "/GifSearchApp-React/static/css/main.6ffdc4c9.chunk.css",
+    "main.js": "/GifSearchApp-React/static/js/main.8ae707b5.chunk.js",
+    "main.js.map": "/GifSearchApp-React/static/js/main.8ae707b5.chunk.js.map",
+    "runtime-main.js": "/GifSearchApp-React/static/js/runtime-main.5c613481.js",
+    "runtime-main.js.map": "/GifSearchApp-React/static/js/runtime-main.5c613481.js.map",
+    "static/js/2.da604abf.chunk.js": "/GifSearchApp-React/static/js/2.da604abf.chunk.js",
+    "static/js/2.da604abf.chunk.js.map": "/GifSearchApp-React/static/js/2.da604abf.chunk.js.map",
+    "index.html": "/GifSearchApp-React/index.html",
+    "static/css/main.6ffdc4c9.chunk.css.map": "/GifSearchApp-React/static/css/main.6ffdc4c9.chunk.css.map",
+    "static/js/2.da604abf.chunk.js.LICENSE.txt": "/GifSearchApp-React/static/js/2.da604abf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a3dbb60a.js",
+    "static/js/runtime-main.5c613481.js",
     "static/js/2.da604abf.chunk.js",
     "static/css/main.6ffdc4c9.chunk.css",
     "static/js/main.8ae707b5.chunk.js"
